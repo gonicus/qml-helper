@@ -22,7 +22,7 @@ trying to understand what's going on manually.
 ## Automation with gdb
 
 Doing it a couple of times in the past, I stumbled upon a 2016 blog entry of 
-[David Edmundson](git@github.com:gonicus/qml-helper.git), who did a small
+[David Edmundson](https://blog.davidedmundson.co.uk/blog/daves-qml-binding-loop-backtrace-printer/), who did a small
 python script to automate the tracing for Qt 5. Based on his work, I've adapted
 it to work with Qt 6.
 
